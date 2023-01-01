@@ -2,8 +2,8 @@
 /**
  * Plugin Name:       <Title>
  * Description:       <Description>
- * Requires at least: 7.4
- * Requires PHP:      7.4
+ * Requires at least: 5.6
+ * Requires PHP:      5.6
  * Version:           1.0
  * Author:            Katie Ayres
  * License:           GPL-2.0-or-later
