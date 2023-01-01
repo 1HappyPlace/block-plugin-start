@@ -1,16 +1,16 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 2,
-	"name": "<namespace>/<slug>",
+	"name": "happyplace/start-block",
 	"version": "1.0",
-	"title": "<Heading>",
-	"category": "<browse-category>",
+	"title": "Start Block",
+	"category": "theme",
 	"icon": "smiley",
-	"description": "<Description>",
+	"description": "This is the description",
 	"supports": {
 		"html": false
 	},
-	"textdomain": "<slug>",
+	"textdomain": "slug",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css"
